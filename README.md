@@ -22,4 +22,4 @@ Espero aprender mais sobre o ciclo de desenvolvimento de softaware, focando mais
 Minha área de interesse é Produto.
 
 ## O que considero um software bem projetado?
-
+Um software que possui uma documentação funcional e técnica completa, boa arquitetura, manutenibilidade e soluciona as dores dos stakeholders.
